@@ -1,0 +1,14 @@
+#	Ignore error.log , any type of git folder
+error.log
+
+#	all types of log files 
+*.log
+
+#	Ignore any type of git folder
+# dir/
+
+# 	Ignore dir which is only in  root , not in other directory
+
+/dir/
+
+static/dir
